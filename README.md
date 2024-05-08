@@ -1,9 +1,3 @@
-# Unsupervised-Machine-Learning-for-Customer-Market-Segmentation
-
-For your second project on "Unsupervised Machine Learning for Customer Market Segmentation," let’s create a structured README file. You've already got a great foundation from the PDF report, including detailed methodology and results. Here's how you can structure the README:
-
----
-
 ## Unsupervised Machine Learning for Customer Market Segmentation
 
 ### Project Overview
