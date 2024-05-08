@@ -4,7 +4,7 @@
 This project explores customer market segmentation using unsupervised machine learning techniques. By applying clustering algorithms, we identify distinct customer groups, enabling targeted marketing strategies that cater to the unique preferences and behaviors of each segment.
 
 ### Live Demo
-Check out the web application that demonstrates the segmentation in action: [Customer Market Segmentation Web App](https://custseg1.streamlit.app/)
+Check out the web application that demonstrates the segmentation in action: [Customer Market Segmentation Web App](https://customer-market-segmentation.streamlit.app/)
 
 ### Objectives
 - To segment the customer market using unsupervised learning methods.
